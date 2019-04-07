@@ -4,7 +4,7 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "830A3A02-7640-48B0-817E-2347682028BE"
+		"uuidString": "F024D155-83AF-4212-AEB9-D55B8CBA3C42"
 		}
 	],
 "creatorBuild": "29156",
@@ -17,167 +17,180 @@
 		"oAP": "/ajax-email.php",
 		"oF": 0
 		},
-	"/android-chrome-192x192.png": {
+	"/assets/img/afterpay-logo.png": {
 		"ft": 32768,
-		"iS": 6018,
+		"iS": 30606,
 		"oA": 0,
-		"oAP": "/android-chrome-192x192.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/apple-touch-icon.png": {
-		"ft": 32768,
-		"iS": 5802,
-		"oA": 0,
-		"oAP": "/apple-touch-icon.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/assets/docs/myprosperity-app.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/docs/myprosperity-app.pdf",
-		"oF": 0
-		},
-	"/assets/docs/myprosperity-document-signing.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/docs/myprosperity-document-signing.pdf",
-		"oF": 0
-		},
-	"/assets/docs/myprosperity-estate-planning.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/docs/myprosperity-estate-planning.pdf",
-		"oF": 0
-		},
-	"/assets/docs/myprosperity-kwidz-app.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/docs/myprosperity-kwidz-app.pdf",
-		"oF": 0
-		},
-	"/assets/docs/myprosperity-portal-features.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/docs/myprosperity-portal-features.pdf",
-		"oF": 0
-		},
-	"/assets/docs/myprosperity-property-owners.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/docs/myprosperity-property-owners.pdf",
-		"oF": 0
-		},
-	"/assets/docs/myprosperity-security.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/docs/myprosperity-security.pdf",
-		"oF": 0
-		},
-	"/assets/img/background/contact.png": {
-		"ft": 32768,
-		"iS": 51364,
-		"oA": 0,
-		"oAP": "/assets/img/background/contact.png",
+		"oAP": "/assets/img/afterpay-logo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/assets/img/background/myprosperity.gif": {
-		"ft": 4194304,
-		"iS": 96933,
-		"oA": 0,
-		"oAP": "/assets/img/background/myprosperity.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"/assets/img/iphone-73.png": {
+	"/assets/img/afterpay.png": {
 		"ft": 32768,
-		"iS": 918979,
+		"iS": 7811,
 		"oA": 0,
-		"oAP": "/assets/img/iphone-73.png",
+		"oAP": "/assets/img/afterpay.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/assets/img/logo-white.png": {
-		"ft": 32768,
-		"iS": 35909,
+	"/assets/img/background/about.jpg": {
+		"ft": 16384,
+		"iS": 535047,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/img/logo-white.png",
+		"oAP": "/assets/img/background/about.jpg",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/background/contact.jpg": {
+		"ft": 16384,
+		"iS": 874161,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/background/contact.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/background/faq.jpg": {
+		"ft": 16384,
+		"iS": 721030,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/background/faq.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/background/services.jpg": {
+		"ft": 16384,
+		"iS": 528326,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/background/services.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-60-1.jpg": {
+		"ft": 16384,
+		"iS": 202715,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-60-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-60-2.jpg": {
+		"ft": 16384,
+		"iS": 150194,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-60-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-60-3.jpg": {
+		"ft": 16384,
+		"iS": 189187,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-60-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-67-1.jpg": {
+		"ft": 16384,
+		"iS": 261639,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-67-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-67-2.jpg": {
+		"ft": 16384,
+		"iS": 379718,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-67-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-67-3.jpg": {
+		"ft": 16384,
+		"iS": 201907,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-67-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/icon.png": {
+		"ft": 32768,
+		"iS": 527946,
+		"oA": 0,
+		"oAP": "/assets/img/icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/icon_white.png": {
+		"ft": 32768,
+		"iS": 486905,
+		"oA": 0,
+		"oAP": "/assets/img/icon_white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/iphones-34.png": {
+		"ft": 32768,
+		"iS": 1493314,
+		"oA": 0,
+		"oAP": "/assets/img/iphones-34.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"/assets/img/logo.png": {
 		"ft": 32768,
-		"iS": 36662,
+		"iS": 379003,
 		"oA": 0,
 		"oAP": "/assets/img/logo.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/assets/img/myprosperity-android.png": {
-		"ft": 32768,
-		"iS": 13957,
-		"oA": 0,
-		"oAP": "/assets/img/myprosperity-android.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/assets/img/myprosperity-iphone.png": {
-		"ft": 32768,
-		"iS": 12077,
-		"oA": 0,
-		"oAP": "/assets/img/myprosperity-iphone.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/assets/img/video-16.jpg": {
-		"ft": 16384,
-		"iS": 163247,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/img/video-16.jpg",
-		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/assets/svg/icons.svg": {
@@ -214,19 +227,11 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/assets/svg/.video-icon~imageoptim.svg",
+		"oAP": "/assets/svg/video-icon.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
-		},
-	"/browserconfig.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/browserconfig.xml",
-		"oF": 0
 		},
 	"/css/custom.css": {
 		"aP": 1,
@@ -267,44 +272,6 @@
 		"oAP": "/css/swiper.min-min.css",
 		"oF": 0,
 		"oS": 3
-		},
-	"/favicon-16x16.png": {
-		"ft": 32768,
-		"iS": 1098,
-		"oA": 0,
-		"oAP": "/.favicon-16x16~imageoptim.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/favicon-32x32.png": {
-		"ft": 32768,
-		"iS": 1386,
-		"oA": 0,
-		"oAP": "/favicon-32x32.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/favicon.ico": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/favicon.ico",
-		"oF": 0
-		},
-	"/google55783de50ab67175.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/google55783de50ab67175.html",
-		"oF": 0
 		},
 	"/index.html": {
 		"cB": 0,
@@ -379,43 +346,6 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
-		},
-	"/manual/manual.url": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/manual/manual.url",
-		"oF": 0
-		},
-	"/mstile-150x150.png": {
-		"ft": 32768,
-		"iS": 4774,
-		"oA": 0,
-		"oAP": "/mstile-150x150.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/robots.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/robots.txt",
-		"oF": 0
-		},
-	"/safari-pinned-tab.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/.safari-pinned-tab~imageoptim.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"/scss/colors.scss": {
 		"aP": 0,
@@ -585,22 +515,6 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
-		},
-	"/site.webmanifest": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site.webmanifest",
-		"oF": 0
-		},
-	"/sitemap.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/sitemap.xml",
-		"oF": 0
 		}
 	},
 "hooks": [
@@ -608,10 +522,10 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 575021437.19463396,
-	"displayValue": "bryceadvisory",
-	"displayValueWasSetByUser": 0,
-	"iconImageName": "/apple-touch-icon.png",
+	"creationDate": 576317124.68967402,
+	"displayValue": "mtrs",
+	"displayValueWasSetByUser": 1,
+	"iconImageName": "meme-daenerys",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
