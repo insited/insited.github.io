@@ -6,7 +6,7 @@
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 
 	<!-- Page Title -->
-	<title>Maroochydore Tattoo Removal Studio</title>
+	<title>Maroochydore Tattoo Removal Studio - Cosmetic Tattooing</title>
 
     <!-- Meta Tags -->
     <meta name="description" content="At Studio 99 Aerodrome we offer the highest quality laser tattoo removal in Maroochydore with an experienced Registered Nurse and certified laser tattoo removal technician.">
@@ -27,7 +27,6 @@
 
 <!-- Custom Styles -->
 <!-- <link href="css/custom.css" rel="stylesheet" type="text/css"> -->
-    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css' rel='stylesheet'/> 
 
 <!-- jQuery 3.3.1 -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -37,22 +36,6 @@
 
 <!-- Custom Scripts -->
 <!-- <script src="js/custom.js" type="text/javascript"></script> -->
-    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js'></script>
-    <script>
-  $(function(){
-    mapboxgl.accessToken = 'pk.eyJ1Ijoic2VyZ2V5c2htaWR0IiwiYSI6ImNqbzN5N3BhbDEyYXMzd3FjNnJlOXJnemkifQ.s0dbtY5p54XeW9_10eUlvw';
-    var map = new mapboxgl.Map({
-      container: 'mapboxBackground',
-      style: 'mapbox://styles/mapbox/dark-v9',
-      zoom: 13,
-      center: [153.095, -26.657]
-    });
-
-    $('.popupTrigger[data-popup-id="mapbox"]').on('click', function(){
-      map.resize();
-    });
-  });
-</script>
 
 <!-- Fonts and Material Icons -->
 	<link rel="stylesheet" as="font" href="https://fonts.googleapis.com/css?family=Nunito:100,300,400,500,600,800|Nunito:300|Nunito:600|Material+Icons"/>
@@ -166,43 +149,52 @@
   </div>
 </nav>
   
-<!-- Laser Tattoo Removal -->
-<section class="slide black fade-5">
+<!-- Cosmetic Tattooing -->
+<section class="slide whiteSlide">
   <div class="content">
     <div class="container">
       <div class="wrap">
-      
-        <div class="fix-11-12 left">
-          <h1 class="uppercase small ae-1">STUDIO99</h1>
-          <p class="ae-2"><span class="opacity-8"><b>Maroochydore Tattoo Removal Studio</b> are conveniently located at <b>STUDIO99</b> in the Aerodrome complex.</span></p>
-          <ul class="grid later margin-top-4">
-            <li class="col-4-12 left ae-3">
-              <div class="fix-3-12 toLeft">
-                <h3 class="uppercase small ae-4">Location</h3>
-                <div class="ae-5"><p class="tiny">Aerodrome<br>
-                Shop 3/99<br>
-                Aerodrome Road<br>
-                Maroochydore QLD 4558</p></div>
+
+        <div class="fix-10-12">
+          <h1 class="ae-1 margin-bottom-2 uppercase small">Cosmetic Tattooing</h1>
+          <div class="button blueGray uppercase small gradient crop popupTrigger margin-top-2 ae-2 fromCenter" data-popup-id="88-1">BOOK NOW</div>
+        </div>
+
+        <div class="fix-12-12">
+          <ul class="flex later margin-top-6 left">
+            <li class="col-6-12 box-88">
+              <div class="quoteBubble ae-4 fromLeft">
+                <p class="cropBottom light opacity-8">We also offer a cosmetic tattoo service by Julie Clarkson, a highly trained professional. We offer services in ombre/shadow brows, lip and eye liner tattooing. </p>
               </div>
+              <p class="margin-top-3 tiny ae-6 fromRight"><strong>Megan Atkins</strong> <span class="opacity-7">Registered Nurse, Maroochydore Tattoo Removal Studio</span></p>
             </li>
-            <li class="col-4-12 center ae-4">
-              <div class="fix-3-12 toLeft">
-                <h3 class="uppercase small ae-5">Directions</h3>
-                <div class="ae-6"><p class="tiny"><a href="https://www.google.com.au/maps/place/Shop+3%2F99+Aerodrome+Rd,+Maroochydore+QLD+4558/data=!4m2!3m1!1s0x6b937664987b55cf:0x946c416846d4ced5?sa=X&ved=2ahUKEwjfk5e7yr3hAhWGbX0KHT6gAn8Q8gEwAHoECAkQAQ" target="_blank" title="Google Maps - Maroochydore Tattoo Removal Studio" class="button uppercase small round gradient square white">VIEW MAP</a></p></div>
-              </div>
-            </li>
-            <li class="col-4-12 left ae-5">
-              <div class="fix-3-12 toLeft">
-                <h3 class="uppercase small ae-6">STUDIO99</h3>
-                <div class="ae-7"><p class="tiny opacity-6">Conveniently located by the beach, relax and take care after your treatment with us.</p></div>
-              </div>
+            <li class="col-6-12">
+              <ul class="flex fromBottomRight fixedSpaces">
+                <li class="col-6-12 ae-6">
+                  <h3>Microblading</h3>
+                  <p class="tiny opacity-6 margin-bottom-3">Tattoo artists use liquid ink, whereas microblading artists use pigments.</p>
+                </li>
+                <li class="col-6-12 ae-7">
+                  <h3>Brows</h3>
+                  <p class="tiny opacity-6 margin-bottom-3">Permanent brow restructuring leaving you with perfectly scuplted brows.</p>
+                </li>
+                <li class="col-6-12 ae-8">
+                  <h3>Lips</h3>
+                  <p class="tiny opacity-6 margin-bottom-3">Liner to define your mouth and make your lips appear fuller.</p>
+                </li>
+                <li class="col-6-12 ae-9">
+                  <h3>Eyes</h3>
+                  <p class="tiny opacity-6 margin-bottom-3">Bring out the colour and shape of your eyes with liner.</p>
+                </li>
+
+              </ul>
             </li>
           </ul>
         </div>
+
       </div>
     </div>
   </div>
-<div id='mapboxBackground' style='width: 100vw;height: 100vh;'></div>   
 </section>
         
 </body>
