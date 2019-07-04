@@ -4,11 +4,19 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "F024D155-83AF-4212-AEB9-D55B8CBA3C42"
+		"uuidString": "CE2059AD-9974-465D-9F48-2FE6130520F5"
 		}
 	],
 "creatorBuild": "29156",
 "files": {
+	"/about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/about.html",
+		"oF": 0
+		},
 	"/ajax-email.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -17,100 +25,188 @@
 		"oAP": "/ajax-email.php",
 		"oF": 0
 		},
-	"/assets/img/afterpay-logo.png": {
-		"ft": 32768,
-		"iS": 30606,
-		"oA": 0,
-		"oAP": "/assets/img/afterpay-logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/assets/img/afterpay.png": {
-		"ft": 32768,
-		"iS": 7811,
-		"oA": 0,
-		"oAP": "/assets/img/afterpay.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/assets/img/background/about.jpg": {
+	"/assets/img/background/img-14.jpg": {
 		"ft": 16384,
-		"iS": 535047,
+		"iS": 78232,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/img/background/about.jpg",
+		"oAP": "/assets/img/background/img-14.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/img/background/contact.jpg": {
+	"/assets/img/background/img-15.jpg": {
 		"ft": 16384,
-		"iS": 874161,
+		"iS": 144769,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/img/background/contact.jpg",
+		"oAP": "/assets/img/background/img-15.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/img/background/faq.jpg": {
+	"/assets/img/background/img-16.jpg": {
 		"ft": 16384,
-		"iS": 721030,
+		"iS": 158793,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/img/background/faq.jpg",
+		"oAP": "/assets/img/background/img-16.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/img/background/services.jpg": {
+	"/assets/img/background/img-17.jpg": {
 		"ft": 16384,
-		"iS": 528326,
+		"iS": 434742,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/img/background/services.jpg",
+		"oAP": "/assets/img/background/img-17.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/img/gallery-60-1.jpg": {
+	"/assets/img/background/img-28.jpg": {
 		"ft": 16384,
-		"iS": 202715,
+		"iS": 358299,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/img/gallery-60-1.jpg",
+		"oAP": "/assets/img/background/img-28.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/img/gallery-60-2.jpg": {
+	"/assets/img/background/img-29.jpg": {
 		"ft": 16384,
-		"iS": 150194,
+		"iS": 229076,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/img/gallery-60-2.jpg",
+		"oAP": "/assets/img/background/img-29.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/img/gallery-60-3.jpg": {
+	"/assets/img/background/img-46.jpg": {
 		"ft": 16384,
-		"iS": 189187,
+		"iS": 183151,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/img/gallery-60-3.jpg",
+		"oAP": "/assets/img/background/img-46.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/background/img-50.jpg": {
+		"ft": 16384,
+		"iS": 347943,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/background/img-50.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/background/img-56.jpg": {
+		"ft": 16384,
+		"iS": 130404,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/background/img-56.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/background/img-65.jpg": {
+		"ft": 16384,
+		"iS": 127370,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/background/img-65.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/background/img-67.jpg": {
+		"ft": 16384,
+		"iS": 88397,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/background/img-67.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/background/img-74.jpg": {
+		"ft": 16384,
+		"iS": 210931,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/background/img-74.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/background/img-75.jpg": {
+		"ft": 16384,
+		"iS": 380080,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/background/img-75.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/background/img-80.jpg": {
+		"ft": 16384,
+		"iS": 363777,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/background/img-80.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/background/img-81.jpg": {
+		"ft": 16384,
+		"iS": 202818,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/background/img-81.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/background/img-89.jpg": {
+		"ft": 16384,
+		"iS": 235780,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/background/img-89.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/background/img-90.jpg": {
+		"ft": 16384,
+		"iS": 83874,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/background/img-90.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -118,7 +214,7 @@
 		},
 	"/assets/img/gallery-67-1.jpg": {
 		"ft": 16384,
-		"iS": 261639,
+		"iS": 70447,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/img/gallery-67-1.jpg",
@@ -129,7 +225,7 @@
 		},
 	"/assets/img/gallery-67-2.jpg": {
 		"ft": 16384,
-		"iS": 379718,
+		"iS": 118296,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/img/gallery-67-2.jpg",
@@ -140,7 +236,7 @@
 		},
 	"/assets/img/gallery-67-3.jpg": {
 		"ft": 16384,
-		"iS": 201907,
+		"iS": 68044,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/img/gallery-67-3.jpg",
@@ -149,48 +245,312 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/img/icon.png": {
-		"ft": 32768,
-		"iS": 527946,
+	"/assets/img/gallery-74-1.jpg": {
+		"ft": 16384,
+		"iS": 56640,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/img/icon.png",
+		"oAP": "/assets/img/gallery-74-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-74-2.jpg": {
+		"ft": 16384,
+		"iS": 72997,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-74-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-74-3.jpg": {
+		"ft": 16384,
+		"iS": 60249,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-74-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-74-4.jpg": {
+		"ft": 16384,
+		"iS": 45040,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-74-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-75-1.jpg": {
+		"ft": 16384,
+		"iS": 86327,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-75-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-75-2.jpg": {
+		"ft": 16384,
+		"iS": 92876,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-75-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-75-3.jpg": {
+		"ft": 16384,
+		"iS": 48993,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-75-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-75-4.jpg": {
+		"ft": 16384,
+		"iS": 46473,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-75-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-75-5.jpg": {
+		"ft": 16384,
+		"iS": 49667,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-75-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-75-6.jpg": {
+		"ft": 16384,
+		"iS": 188300,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-75-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-75-7.jpg": {
+		"ft": 16384,
+		"iS": 56209,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-75-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-90-1.jpg": {
+		"ft": 16384,
+		"iS": 49543,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-90-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-90-2.jpg": {
+		"ft": 16384,
+		"iS": 25445,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-90-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-90-3.jpg": {
+		"ft": 16384,
+		"iS": 51405,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-90-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/gallery-90-4.jpg": {
+		"ft": 16384,
+		"iS": 48086,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gallery-90-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/grid-img-1.jpg": {
+		"ft": 16384,
+		"iS": 56642,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/grid-img-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/grid-img-2.jpg": {
+		"ft": 16384,
+		"iS": 65583,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/grid-img-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/grid-img-3.jpg": {
+		"ft": 16384,
+		"iS": 48945,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/grid-img-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/image-80.jpg": {
+		"ft": 16384,
+		"iS": 572705,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/image-80.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/image-81.jpg": {
+		"ft": 16384,
+		"iS": 147130,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/image-81.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/image-89-1.jpg": {
+		"ft": 16384,
+		"iS": 70757,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/image-89-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/image-89-2.jpg": {
+		"ft": 16384,
+		"iS": 207711,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/image-89-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/iphone-28.png": {
+		"ft": 32768,
+		"iS": 1248409,
+		"oA": 0,
+		"oAP": "/assets/img/iphone-28.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/assets/img/icon_white.png": {
+	"/assets/img/iphone-29.png": {
 		"ft": 32768,
-		"iS": 486905,
+		"iS": 1365622,
 		"oA": 0,
-		"oAP": "/assets/img/icon_white.png",
+		"oAP": "/assets/img/iphone-29.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/assets/img/iphones-34.png": {
+	"/assets/img/MLFSlogo.png": {
 		"ft": 32768,
-		"iS": 1493314,
+		"iS": 223846,
 		"oA": 0,
-		"oAP": "/assets/img/iphones-34.png",
+		"oAP": "/assets/img/MLFSlogo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/assets/img/logo.png": {
+	"/assets/img/my-little-flower-shoppe-logo.png": {
 		"ft": 32768,
-		"iS": 379003,
+		"iS": 201459,
 		"oA": 0,
-		"oAP": "/assets/img/logo.png",
+		"oAP": "/assets/img/my-little-flower-shoppe-logo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/video-16.jpg": {
+		"ft": 16384,
+		"iS": 163247,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/video-16.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/video-17.jpg": {
+		"ft": 16384,
+		"iS": 103062,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/video-17.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/assets/svg/icons.svg": {
@@ -233,6 +593,24 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/catalogue.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/catalogue.html",
+		"oF": 0
+		},
+	"/css/custom-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/custom-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/css/custom.css": {
 		"aP": 1,
 		"bl": 0,
@@ -240,6 +618,16 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/css/custom-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/slides-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/slides-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -272,6 +660,22 @@
 		"oAP": "/css/swiper.min-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"/delivery.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/delivery.html",
+		"oF": 0
+		},
+	"/events.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/events.html",
+		"oF": 0
 		},
 	"/index.html": {
 		"cB": 0,
@@ -522,10 +926,10 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 576317124.68967402,
-	"displayValue": "mtrs",
+	"creationDate": 583285629.42137802,
+	"displayValue": "mlfs",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-daenerys",
+	"iconImageName": "meme-maroney",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {

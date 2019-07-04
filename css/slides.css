@@ -2,7 +2,7 @@
 /*
 
    _____ _       _              _____  _____ _____
-  / ___/| (•)   | |           / ____// ____/ ____/  v 4.2.1
+  / ___/| (•)   | |           / ____// ____/ ____/  v 4.2.3
  | (___ | |_  __| | ___ ____ | |    | (___| (___
   \___ \| | |/ _` |/ _ / __/ | |     \___ \ ___ \
   ____) | | | (_| |  __\__ \ | |____ ____) |___) |
@@ -1075,6 +1075,8 @@ img.rounded {
   height: 100%;
   z-index: 100;
   -webkit-overflow-scrolling: touch;
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
 }
 .content.scrollBar {
   overflow-y: auto;
@@ -5059,7 +5061,7 @@ h5.uppercase, h5.uppercase {
 }
 
 .yellow {
-  background: #FFEB3B !important;
+  background: #daa520 !important;
   color: #202020 !important;
 }
 .yellow svg {
@@ -5067,18 +5069,18 @@ h5.uppercase, h5.uppercase {
 }
 
 .text-yellow {
-  color: #FFEB3B !important;
+  color: #daa520 !important;
 }
 .text-yellow.button svg {
-  fill: #FFEB3B !important;
+  fill: #daa520 !important;
 }
 
 .stroke.button.yellow {
-  color: #FFEB3B !important;
-  border-color: #FFEB3B !important;
+  color: #daa520 !important;
+  border-color: #daa520 !important;
 }
 .stroke.button.yellow svg {
-  fill: #FFEB3B !important;
+  fill: #daa520 !important;
 }
 
 .amber {
