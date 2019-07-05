@@ -22,6 +22,21 @@
 
 <!-- Custom Scripts -->
 <!-- <script src="js/custom.js" type="text/javascript"></script> -->
+    
+<!--- Tooltip player -->
+<script type='text/javascript'>
+window.Tooltip||function(t,e){var o={
+url:"https://cdn.tooltip.io/static/player.js",
+key:"dc528f82-9c95-4f42-951e-ca9787df160a",
+async:true
+};
+window.Tooltip={cs:[],_apiKey:o.key};for(
+var r=["identify","goal","updateUserData","start","stop","refresh","show","hide","on"],
+i={},n=0;n<r.length;n++){var a=r[n];i[a]=function(t){return function(){var e=Array.prototype.slice.call(arguments);
+window.Tooltip.cs.push({method:t,args:e})}}(a)}window.Tooltip.API=i;var n=t.createElement(e),s=t.getElementsByTagName(e)[0];
+n.type="text/javascript",n.async=o.async,s.parentNode.insertBefore(n,s),n.src=o.url}(document,"script");
+</script>
+<!--- Tooltip player -->    
 
 <!-- Fonts and Material Icons -->
 	<link rel="stylesheet" as="font" href="https://fonts.googleapis.com/css?family=Nunito:100,300,400,500,600,800|Nunito:300|Nunito:600|Material+Icons"/>
@@ -414,7 +429,7 @@
 <div class="vimeo-wrapper">
    <iframe src="https://player.vimeo.com/video/344512428?background=1&autoplay=1&loop=1&byline=0&title=0"
            frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div> 
+</div>    
 
 </body>
 </html>
