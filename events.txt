@@ -1,0 +1,32 @@
+<!-- Events -->
+<section data-name="weddings" data-title="Weddings" class="slide fade-4 kenBurns fromLeft transparent">
+  <div class="content">
+    <div class="container">
+      <div class="wrap">
+      
+        <div class="fix-12-12">
+          <div class="fix-7-12 left toRight">
+            <h1 class="ae-1">Weddings</h1>
+            <p class="ae-2"><span class="opacity-8">Wedding event florals designed to perfection</span></p>
+            <a class="button white round small uppercase crop ae-3 popupTrigger" data-popup-id="events">Book Now</a>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</section>
+    
+<!-- Events Page -->
+<div class="popup fullscreen" data-popup-id="events">
+  <div class="close button small uppercase black left crop"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#close"></use></svg>Close</div>
+  <div class="content">
+    <div class="container">
+      <div class="wrap">
+        <div class="popupContent embedVideo">
+          <iframe defer src="/events.html" frameborder="0" scrolling="auto" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-top-navigation"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
